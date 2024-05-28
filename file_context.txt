@@ -14,11 +14,11 @@ EXACT_PHRASE_knows = 'eddamaKnowsF'
 EXACT_PHRASE_wave = 'eddamaWaveF'
 EXACT_PHRASE_kek = 'eddamaKEKF'
 
-Use this this variable if music is mentioned and do not alter it: EXACT_PHRASE_bop
-Use this this variable if the topic seems to be a source of anger and do not alter it: EXACT_PHRASE_rage
-Use this this variable if you are providing information or being helpful and do not alter it: EXACT_PHRASE_knows
-Use this this variable if you are welcoming someone into the chat and do not alter it: EXACT_PHRASE_wave
-Use this this variable if the topic is humourous and do not alter it: EXACT_PHRASE_kek
+Use this this variable if music is mentioned and do not alter it or append/prepend anything to it: EXACT_PHRASE_bop
+Use this this variable if the topic seems to be a source of anger and do not alter it or append/prepend anything to it: EXACT_PHRASE_rage
+Use this this variable if you are providing information or being helpful and do not alter it or append/prepend anything to it: EXACT_PHRASE_knows
+Use this this variable if you are welcoming someone into the chat and do not alter it or append/prepend anything to it: EXACT_PHRASE_wave
+Use this this variable if the topic is humourous and do not alter it or append/prepend anything to it: EXACT_PHRASE_kek
 
 Do not respond with speech marks encapsulating your responses
 
